@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e2eb168-670e-4b4e-b5e6-7face132050f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/04_java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch01/sec09/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec01/ScannerExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec01/VariableExchangeEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec01/VariableInitalizationEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec02/IntegerLiteralEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec02/LongEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec05/BooleanEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec06/StringEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/04_java/ch02/sec06/TextBlockEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start_INFLEARN/java-start_INFLEARN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-start_INFLEARN/java-start_INFLEARN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec02/exam01/ExceptionHandlingExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec02/exam01/ExceptionHandlingExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec03/exam01/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec03/exam01/ExceptionHandlingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec03/exam03/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec03/exam03/ExceptionHandlingExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec04/MyResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec04/MyResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec04/TryWithResourceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec04/TryWithResourceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec05/ThrowExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec05/ThrowExample1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,27 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BooleanEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerLiteralEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TextBlockEx.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/kb_fullstack/04_java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BooleanEx.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.IntegerLiteralEx.executor": "Run",
+    "Application.LongEx.executor": "Run",
+    "Application.StringEx.executor": "Run",
+    "Application.TextBlockEx.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/kb_fullstack/과제 제출",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.TextBlockEx">
     <configuration name="BooleanEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch02.sec05.BooleanEx" />
@@ -160,39 +153,14 @@
       <workItem from="1718671979465" duration="10970000" />
       <workItem from="1718765414386" duration="47000" />
       <workItem from="1718765520471" duration="119000" />
+      <workItem from="1719386172929" duration="311000" />
+      <workItem from="1719481075049" duration="13000" />
+      <workItem from="1719481094539" duration="40000" />
+      <workItem from="1719481164114" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/study/src/ch02/sec06/StringEx.java</url>
-          <line>3</line>
-          <properties class="ch02.sec06.StringEx" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/study/src/ch02/sec06/TextBlockEx.java</url>
-          <line>3</line>
-          <properties class="ch02.sec06.TextBlockEx" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/study/src/ch02/sec06/TextBlockEx.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
