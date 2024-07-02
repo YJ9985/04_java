@@ -28,7 +28,7 @@ public class ClazzMain {
 
         //Class 정보를 바탕으로 인스턴스 만들기
         User user1 = (User) clazz1.getDeclaredConstructor().newInstance();
-        System.out.println("user = " + user);
+        System.out.println("user = " + user1);
 
 
     }
