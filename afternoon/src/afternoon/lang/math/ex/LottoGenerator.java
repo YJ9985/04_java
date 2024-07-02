@@ -1,59 +1,41 @@
-package afternoon.lang.math.ex;
+package lang.math.lotto;
 
 import java.util.Random;
 
 public class LottoGenerator {
-    Random random = new Random();
-    int lottoNumbers;
-
-    public void generate(){
-        lottoNumbers = random.nextInt(45);
-    }
-    public void printLottoNumbers() {
-        System.out.println(lottoNumbers);
-    }
-
-
-}
-
-package afternoon.lang.math.ex;
-
-import java.util.Random;
-
-public class LottoGenerator {
-    Random random = new Random();
-    int[] lottoNumbers = new int[6];
+    private Random random = new Random();
+    private int[] lottoNumbers;
+    private int count;
+    private static final int LOTTO_NUMS = 6;
+    private static final int LOTTO_BOUNDARY = 46;
 
     public void generate() {
-        int count = 0;
-        while (count < 6) {
-            int number = random.nextInt(45) + 1;
-            if (!isDuplicate(number)) {
-                lottoNumbers[count] = number;
+        lottoNumbers = new int[LOTTO_NUMS];
+        count = 0;
+
+        while (count < LOTTO_NUMS) {
+            int rand = random.nextInt(LOTTO_BOUNDARY);
+
+            if(isUnique(lottoNumbers, rand)) {
+                lottoNumbers[count] = rand;
                 count++;
             }
         }
     }
 
-    private boolean isDuplicate(int number) {
-        for (int i = 0; i < lottoNumbers.length; i++) {
-            if (lottoNumbers[i] == number) {
-                return true;
-            }
-        }
-        return false;
-    }
-
     public void printLottoNumbers() {
-        for (int i = 0; i < lottoNumbers.length; i++) {
+        System.out.print("로또 번호 : ");
+        for (int i = 0; i < LOTTO_NUMS; i++) {
             System.out.print(lottoNumbers[i] + " ");
         }
-        System.out.println();
     }
 
-    public static void main(String[] args) {
-        LottoGenerator lotto = new LottoGenerator();
-        lotto.generate();
-        lotto.printLottoNumbers();
+    private boolean isUnique(int[] arr, int target) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == target) {
+                return false;
+            }
+        }
+        return true;
     }
 }

@@ -1,12 +1,10 @@
-package afternoon.lang.math.ex;
+package lang.math.lotto;
 
 public class LottoMain {
     public static void main(String[] args) {
-    LottoGenerator lottoGenerator = new LottoGenerator();
+        lang.math.lotto.LottoGenerator lottoGenerator = new lang.math.lotto.LottoGenerator();
 
-    lottoGenerator.generate();
-    lottoGenerator.printLottoNumbers();
-
-
-   }
+        lottoGenerator.generate();
+        lottoGenerator.printLottoNumbers();
+    }
 }
