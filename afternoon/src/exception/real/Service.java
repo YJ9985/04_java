@@ -29,12 +29,7 @@ public class Service {
             System.out.println("MyCheckoutException에서 발생한 에러");
             //MyCheckoutException에서만 쓰는 메서드 활용을 위한 다운캐스팅
             MyCheckException CheckException = (MyCheckException) e;
-            myCheckException.getMessage();
-        } else if(e instanceof MyUncheckException){
-            System.out.println("MyUncheckException에서 발생한 에러");
-            //MyCheckoutException에서만 쓰는 메서드 활용을 위한 다운캐스팅
-            MyUncheckException UnCheckException = (MyUnCheckException) e;
-            myUnCheckException.getMessage();
+//            MyCheckException.getMessage();
         }
     }
 }
