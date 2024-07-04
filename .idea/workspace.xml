@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2eb168-670e-4b4e-b5e6-7face132050f" name="Changes" comment="">
+    <list default="true" id="4e2eb168-670e-4b4e-b5e6-7face132050f" name="Changes" comment="240627">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start_INFLEARN/java-start_INFLEARN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-start_INFLEARN/java-start_INFLEARN.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec02/exam01/ExceptionHandlingExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec02/exam01/ExceptionHandlingExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec03/exam01/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec03/exam01/ExceptionHandlingExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec03/exam03/ExceptionHandlingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec03/exam03/ExceptionHandlingExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec04/MyResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec04/MyResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec04/TryWithResourceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec04/TryWithResourceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/src/ch11/sec05/ThrowExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/src/ch11/sec05/ThrowExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-start_INFLEARN/src/loop/While2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start_INFLEARN/src/loop/While2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +42,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/kb_fullstack/과제 제출",
+    "last_opened_file_path": "C:/kb_fullstack/04_java/study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.import",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -157,10 +151,28 @@
       <workItem from="1719481075049" duration="13000" />
       <workItem from="1719481094539" duration="40000" />
       <workItem from="1719481164114" duration="16000" />
+      <workItem from="1719481195116" duration="78000" />
+      <workItem from="1719481570449" duration="26000" />
+      <workItem from="1719481622313" duration="19000" />
+      <workItem from="1719481652310" duration="7000" />
+      <workItem from="1719967308301" duration="39000" />
     </task>
+    <task id="LOCAL-00001" summary="240627">
+      <option name="closed" value="true" />
+      <created>1719481228691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719481228691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="240627" />
+    <option name="LAST_COMMIT_MESSAGE" value="240627" />
   </component>
 </project>
