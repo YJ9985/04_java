@@ -2,4 +2,9 @@
 <project version="4">
 <<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="22 (2)" project-jdk-type="JavaSDK" />
+=======
+  <component name="ProjectRootManager" version="2" default="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+>>>>>>> 85467861b06f158d93b57e20d52a7e107ed10f33
 </project>
