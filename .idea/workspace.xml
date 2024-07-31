@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e2eb168-670e-4b4e-b5e6-7face132050f" name="Changes" comment="240627">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-start_INFLEARN/src/loop/While2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-start_INFLEARN/src/loop/While2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/kb_fullstack/04_java/study",
+    "last_opened_file_path": "C:/kb_fullstack/00_알고리즘/doitCodingTest",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -156,6 +155,7 @@
       <workItem from="1719481622313" duration="19000" />
       <workItem from="1719481652310" duration="7000" />
       <workItem from="1719967308301" duration="39000" />
+      <workItem from="1720399011526" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="240627">
       <option name="closed" value="true" />
