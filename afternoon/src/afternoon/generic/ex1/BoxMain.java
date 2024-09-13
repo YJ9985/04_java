@@ -2,6 +2,7 @@ package afternoon.generic.ex1;
 
 public class BoxMain {
     public static void main(String[] args) {
+        //복습
         IntegerBox integerBox = new IntegerBox();
         integerBox.setValue(10);
         Integer integer = integerBox.getValue();
